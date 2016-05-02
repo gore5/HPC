@@ -1,2 +1,2 @@
 # HPC
-Convolution COd
+Convolution code
